@@ -56,13 +56,16 @@ Result:
 
 No issues found!
 
-Screenshots
+## Screenshots
 
-Light theme
+### Light theme
+![Light theme](docs/app-light.png)
 
-Dark theme
+### Dark theme
+![Dark theme](docs/app-dark.png)
 
-Flutter doctor
+### Flutter doctor
+![Flutter doctor](docs/flutter-doctor.png)
 
 Author
 
