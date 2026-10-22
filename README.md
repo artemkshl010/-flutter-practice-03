@@ -67,3 +67,16 @@ Flutter doctor
 Author
 
 Artem
+
+Hot Reload and Hot Restart
+
+During testing, the application was launched in Google Chrome using flutter run -d chrome.
+
+* Hot Reload: applies supported code changes without restarting the application. The current application state is preserved.
+* Hot Restart: restarts the application and resets its in-memory state.
+
+Hot Reload is useful for quickly checking changes to the user interface, while Hot Restart helps verify the application from its initial state.
+
+Difficulties
+
+During setup, the Flutter SDK was installed and configured. The initial environment check reported that the Android SDK and complete Xcode installation were missing. The application was successfully launched in Chrome, and flutter analyze completed with no issues.
